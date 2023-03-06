@@ -1,13 +1,10 @@
-### Hi there 👋
+### Hello there! 👋
 
+My name is Eric and you are welcomed here. I am excited to be starting my programming journey and share my learnings here.
 
-**PeakyRick/PeakyRick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I am currently working on my Software Engineering Master's Degree at University of Toronto
-- 🌱 I’m currently learning Neural Network and Deep Learning (CSC2516), Cloud Computing using AWS, and Advanced Algorithm and Data Structure.
+- 🔭 I am currently working on my Software Engineering Master's Degree at University of Toronto with a focus on data analysis and machine learning
+- 🌱 I am currently learning Neural Network and Deep Learning (CSC2516), Cloud Computing using AWS, and Advanced Algorithm and Data Structure
 - 💬 Ask me about my experience as a Structural Engineer
 - 📫 How to reach me: ericdamon8426@gmail.com
-- ⚡ I play chess and take photos in my spare time (or when I am procrastinating). Challenge me, Peakyb311, on chess.com, or check out my Insta @peakyb66
+- ⚡ I play chess and take photos in my spare time (or when I am procrastinating). Challenge me, Peakyb311, on chess.com, or check out my photography Insta @peakyb66
 
